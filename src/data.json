@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "../../assets/images/01-decor.png",
+    "image": "../assets/images/01-decor.png",
     "clicked": false
   },
   {
